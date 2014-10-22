@@ -1,7 +1,7 @@
 baseurl: /jekyll_zy
-	|-- _config.yml
-	|-- _layouts
-	|	|-- default.html
-	|-- _posts
-	|	|-- 2014-10-21-first-git.html
-	|-- index.html
+ |-- _config.yml
+ |-- _layouts
+ | |-- default.html
+ |-- _posts
+ | |-- 2014-10-21-first-git.html
+ |-- index.html
